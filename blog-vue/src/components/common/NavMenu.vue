@@ -31,7 +31,7 @@
         navList: [
           {name: '/index', navItem: '首页'},
           {name: '/jotter', navItem: '笔记'},
-          {name: '/warehouse', navItem: '项目'},
+          {name: '/warehouse', navItem: '项目仓库'},
           {name: '/login', navItem: '管理中心'}
         ],
         keywords: ''

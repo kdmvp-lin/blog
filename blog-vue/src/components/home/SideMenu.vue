@@ -11,7 +11,7 @@
       <a href="#update-card">
         <el-menu-item index="2">
           <i class="el-icon-menu"></i>
-          <span slot="title">最近更新</span>
+          <span slot="title">系统公告</span>
         </el-menu-item>
       </a>
       <a href="#slogan">

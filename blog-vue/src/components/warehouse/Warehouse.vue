@@ -1,11 +1,15 @@
 <template>
 <div>
+
+  <my-introduction></my-introduction>
 </div>
 </template>
 
 <script>
+import MyIntroduction from './MyIntroduction'
 export default {
-  name: 'Warehouse'
+  name: 'Warehouse',
+  components: {MyIntroduction}
 }
 </script>
 
