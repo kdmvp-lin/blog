@@ -1,0 +1,42 @@
+.blog-vue/node_modules/
+.blog-vue/dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+selenium-debug.log
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+./kdmvp-blog/target/
+!./kdmvp-blog/.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+./kdmvp-blog/nbproject/private/
+./kdmvp-blog/nbbuild/
+./kdmvp-blog/dist/
+./kdmvp-blog/nbdist/
+./kdmvp-blog/.nb-gradle/
+./kdmvp-blog/build/
+./kdmvp-blog/src/main/resources/static/
+./kdmvp-blog/logs/
